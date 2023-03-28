@@ -215,16 +215,18 @@ python manage.py runserver
 ```bash
 'Home pages not accessed without loggin in'
 ```
-![Home Page](https://user-images.githubusercontent.com/34247973/228174380-07bf8a92-6b99-4fb4-a5c5-4edcbbe413ad.png)
+![Home Page](https://user-images.githubusercontent.com/34247973/228175625-fcc53975-15ca-44c4-818a-30f478737105.png)
 
 ```bash
 'Now Loggin in'
 ```
-![Login](https://user-images.githubusercontent.com/34247973/228174845-6699873f-652f-4ddf-8acf-ab072c570360.png)
+![Login](https://user-images.githubusercontent.com/34247973/228175905-7c658691-c147-4634-ad3e-963170c05c5e.png)
+
 
 ```bash
 'Finally Home Page'
 ```
-![Home Page](https://user-images.githubusercontent.com/34247973/228174959-83e89e4d-45b0-409b-90a8-a4d5d6118c75.png)
+![Home Page](https://user-images.githubusercontent.com/34247973/228176354-f58f9ad3-a771-41cb-8a6b-4795f55c91ec.png)
+
 
 
