@@ -212,5 +212,19 @@ python manage.py runserver
 [Admin](http://localhost:8000/admin)
 
 
+```bash
+'Home pages not accessed without loggin in'
+```
+![Home Page](https://user-images.githubusercontent.com/34247973/228174380-07bf8a92-6b99-4fb4-a5c5-4edcbbe413ad.png)
+
+```bash
+'Now Loggin in'
+```
+![Login](https://user-images.githubusercontent.com/34247973/228174845-6699873f-652f-4ddf-8acf-ab072c570360.png)
+
+```bash
+'Finally Home Page'
+```
+![Home Page](https://user-images.githubusercontent.com/34247973/228174959-83e89e4d-45b0-409b-90a8-a4d5d6118c75.png)
 
 
